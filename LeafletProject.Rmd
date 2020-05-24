@@ -1,7 +1,6 @@
 ---
-title: "May 23, 2017 - 20 Oldest schools in U.S. according to Niche.com"
-author: "Larry Belvin"
-date: "5/23/2017"
+title: " 20 Oldest schools in U.S. according to Niche.com"
+author: "La7lou7"
 output: html_document
 ---
 
